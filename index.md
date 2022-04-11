@@ -44,4 +44,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 This article discusses how people protested the destruction of Union Terminal, and how Cincinnati officials responded. It showcases how citizens of Cincinnati expressed their anger over the proposes demolition.
 
-[Link] (https://drc.libraries.uc.edu/bitstream/handle/2374.UC/749607/newsRecord_72-73_1973-01-23.pdf?sequence=7)
+[Link](https://drc.libraries.uc.edu/bitstream/handle/2374.UC/749607/newsRecord_72-73_1973-01-23.pdf?sequence=7)
